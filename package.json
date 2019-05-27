@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lisawass/testing-with-jest-/issues"
   },
-  "homepage": "https://github.com/lisawass/testing-with-jest-#readme"
+  "homepage": "https://github.com/lisawass/testing-with-jest-#readme",
+  "dependencies": {
+    "underscore": "^1.9.1"
+  }
 }
