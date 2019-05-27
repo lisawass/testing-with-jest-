@@ -1,0 +1,19 @@
+{
+  "name": "testing-with-jest-",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lisawass/testing-with-jest-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lisawass/testing-with-jest-/issues"
+  },
+  "homepage": "https://github.com/lisawass/testing-with-jest-#readme"
+}
